@@ -20,7 +20,6 @@ var displayStatus = function (key, elem, title) {
                     curLog = {};
                 }
             });
-            console.log(plotBands);
 
 
 
