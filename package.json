@@ -1,0 +1,22 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BreadfishPlusPlus/status.git"
+  },
+  "author": "Martin Rump <admin@maddin.cc>",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/BreadfishPlusPlus/status/issues"
+  },
+  "homepage": "https://github.com/BreadfishPlusPlus/status",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.9.0",
+    "grunt-contrib-less": "^0.12.0",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
